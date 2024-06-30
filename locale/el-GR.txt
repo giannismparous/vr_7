@@ -202,10 +202,10 @@ panorama_463903E0_5458_989B_41AC_8B05A498FEFF.label = Living Room
 album_58D1442A_4FC7_52D0_41D0_1749D8BC3B33.label = Photo Album IMG_7920
 
 ### Video
-videolevel_768FADFF_690E_3357_41C6_6DA6482A39AE.url = media/video_44C0C35F_5FB3_88F2_41D3_CA3FD6F294CC_en.mp4
-videolevel_768FADFF_690E_3357_41C6_6DA6482A39AE.posterURL = media/video_44C0C35F_5FB3_88F2_41D3_CA3FD6F294CC_poster_en.jpg
-videolevel_7689BE49_690E_30B8_41C7_F1ACCE7917DF.url = media/video_4FBB66E1_5FF1_94B4_41D7_53A9E165C28A_en.mp4
-videolevel_7689BE49_690E_30B8_41C7_F1ACCE7917DF.posterURL = media/video_4FBB66E1_5FF1_94B4_41D7_53A9E165C28A_poster_en.jpg
+videolevel_7891CD47_696F_6B93_41A1_8561E6A7D580.url = media/video_44C0C35F_5FB3_88F2_41D3_CA3FD6F294CC_en.mp4
+videolevel_7891CD47_696F_6B93_41A1_8561E6A7D580.posterURL = media/video_44C0C35F_5FB3_88F2_41D3_CA3FD6F294CC_poster_en.jpg
+videolevel_78901D98_696F_6ABD_41D9_3F2FEDEC3516.url = media/video_4FBB66E1_5FF1_94B4_41D7_53A9E165C28A_en.mp4
+videolevel_78901D98_696F_6ABD_41D9_3F2FEDEC3516.posterURL = media/video_4FBB66E1_5FF1_94B4_41D7_53A9E165C28A_poster_en.jpg
 
 ### Video Subtitles
 
@@ -232,14 +232,14 @@ window_7C0E2985_690A_73AB_41A8_A08C828C6DCE.title = Κριτικές για εμ
 ### Button
 Button_51617042_5F6E_88D2_419A_03F527A19F1F_mobile.label = Παροχές
 Button_51617042_5F6E_88D2_419A_03F527A19F1F.label = Παροχές
-Button_5160C042_5F6E_88D2_41D7_7EB838EE195E.label = Κριτικές διαμερίσματος
 Button_5160C042_5F6E_88D2_41D7_7EB838EE195E_mobile.label = Κριτικές διαμερίσματος
+Button_5160C042_5F6E_88D2_41D7_7EB838EE195E.label = Κριτικές διαμερίσματος
 Button_51615042_5F6E_88D2_41CF_B2753AAAC917_mobile.label = Πληοροφορίες
 Button_51615042_5F6E_88D2_41CF_B2753AAAC917.label = Πληοροφορίες
-Button_5160C042_5F6E_88D2_41D7_7EB838EE195E.pressedLabel = Inserdt Text
 Button_5160C042_5F6E_88D2_41D7_7EB838EE195E_mobile.pressedLabel = Inserdt Text
 Button_7DF09C59_6906_1158_41D9_8DF74CEA01C9.pressedLabel = Inserdt Text
 Button_7FD5A0C4_6906_31A8_41D5_DD994380CD1A_mobile.pressedLabel = Inserdt Text
+Button_5160C042_5F6E_88D2_41D7_7EB838EE195E.pressedLabel = Inserdt Text
 Button_7DF09C59_6906_1158_41D9_8DF74CEA01C9.label = Κριτικές για εμάς
 Button_7FD5A0C4_6906_31A8_41D5_DD994380CD1A_mobile.label = Κριτικές για εμάς
 
